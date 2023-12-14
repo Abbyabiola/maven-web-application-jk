@@ -140,7 +140,7 @@
 				</configuration>
 			</plugin>
 
-						<build>
+					
 		        <plugins>
 		        <plugin>
 		            <groupId>org.sonarsource.scanner.maven</groupId>
