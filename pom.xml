@@ -125,20 +125,6 @@
 					</webApp>
 				</configuration>
 			</plugin>
-			<plugin>
-   				 <groupId>org.sonarsource.scanner.maven</groupId>
-   				 <artifactId>sonar-maven-plugin</artifactId>
-   				 <version>{version}</version>
-   				 <executions>
-       				     <execution>
-                                        <phase>verify</phase>
-            				<goals>
-              				     <goal>sonar</goal>
-           				 </goals>
-        			      </execution>
-                                 </executions>
-                       </plugin>
-
 			
 
 			<plugin>
